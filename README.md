@@ -1606,6 +1606,13 @@ US01, US02, US03, US04, US05, US06, US09, US10, US11, US12.
 Con estas funcionalidades, el equipo completó las operaciones CRUD iniciales necesarias para la gestión de propietarios, compradores y certificados.
 
 ---
+#### 5.2.3.2. Leadership-and-Collaboration Matrix (LACX) – Sprint 3
+| Team Member (Last Name, First Name) | GitHub Username      | Landing Page | Web Application | API Integration & Deployment |
+|-------------------------------------|--------------------|--------------|----------------|-----------------------------|
+| Carranza Tesen, Joaquin Enrique     | thepima            | **L**        | **L**              | C                           |
+| Román López, Miguel Angel Junior       | MiguelAngel271004  | C            | C        | C                           |
+| Santos Torres, Juan Manuel        | JuanManuel312           | C            | C              | C                       |
+| Carranza Pérez, Jhordi Luis     | CarPer2002             | C            | **L**              | **L**                           |
 
 #### 5.2.3.3. Sprint Backlog 3
 
