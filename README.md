@@ -1697,6 +1697,29 @@ Link de deployado: https://certidev-project-backend.onrender.com/index.html
 
 ## 5.3. Validation Interviews
 ### 5.3.1. Diseño de entrevistas
+**Segmento objetivo 1: Propietarios de inmuebles**
+- ¿Cuál es el mayor dolor de cabeza o la mayor preocupación que experimenta al momento de comprar o vender una propiedad?
+- ¿Cómo ha manejado la documentación legal y técnica de su propiedad en transacciones anteriores y qué tan sencillo fue ese proceso?
+- ¿Qué tan importante es para usted la transparencia total sobre el estado legal y estructural de una propiedad antes de finalizar una compra o venta?
+- Si existiera una plataforma que garantizara la inalterabilidad y la autenticidad de los documentos de su inmueble, ¿cómo cambiaría eso su nivel de confianza en la transacción?
+- ¿Cuánto valor le asigna a tener toda la información crucial del inmueble (técnica, legal, estructural) accesible en un solo lugar digital?
+- ¿Podría compartir una experiencia donde la falta de información clara o la incertidumbre le generó un retraso o una pérdida en una operación inmobiliaria?
+- En términos de tiempo, ¿cuánto espera o le gustaría que se acorten los plazos de revisión y validación de documentos en una transacción?
+- ¿Qué tan crucial es que el proceso de compra/venta se sienta seguro y libre de riesgos de fraude o errores documentales?
+- ¿Cómo cree que la digitalización y centralización de los documentos podría mejorar la experiencia general de ser propietario de un inmueble?
+- Si pudiera definir en una o dos palabras lo que más busca en una plataforma de gestión inmobiliaria, ¿cuáles serían?
+
+**Segmento objetivo 2: Agentes Inmobiliarios**
+- ¿Cuál es el principal obstáculo operativo que le hace perder más tiempo o retrasar el cierre de una venta?
+- ¿De qué manera la falta de información integral sobre una propiedad afecta su credibilidad y la confianza que sus clientes depositan en usted?
+- ¿Cómo cambiaría su proceso de venta y negociación si pudiera presentar al cliente una carpeta digital de documentos 100% verificados e inalterables desde el inicio?
+- ¿Qué tan valioso es para su negocio poder reducir el riesgo de contingencias legales o estructurales que surgen en etapas avanzadas de la transacción?
+- Si pudiera automatizar la recopilación y verificación de toda la documentación legal y técnica, ¿a qué otras tareas de alto valor le dedicaría ese tiempo liberado?
+- En su experiencia, ¿cuánto acelera el cierre de una venta tener la documentación completa y transparente al alcance de la mano?
+- ¿Qué herramienta o funcionalidad considera más crítica para generar un sentimiento de seguridad y profesionalismo en sus clientes compradores y vendedores?
+- ¿Cómo influye la disponibilidad inmediata de la información estructural y legal en su capacidad para tasar o valorar correctamente un inmueble?
+- Describa la sensación de alivio y tranquilidad que obtendría si supiera que la validez y autenticidad de cada documento de la propiedad está garantizada por una tecnología confiable
+- ¿Cómo posicionaría a un servicio como CertiInmuebles, que le proporciona total transparencia y seguridad documental, dentro de su propuesta de valor única como agente?
 
 ### 5.3.2. Registro de entrevistas
 
