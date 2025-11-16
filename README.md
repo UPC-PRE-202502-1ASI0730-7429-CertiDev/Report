@@ -1693,6 +1693,7 @@ Link de deployado: https://certidev-project-backend.onrender.com/index.html
 <img width="1240" height="575" alt="image" src="https://github.com/user-attachments/assets/db447ff1-0dcb-49f1-94cf-bc1052632ce3" />
 
 #### 5.2.3.8. Team Collaboration Insights during Sprint
+<img width="999" height="554" alt="image" src="https://github.com/user-attachments/assets/2e53a189-f1b0-4d64-9c4c-3d2ac8f54437" />
 
 
 
