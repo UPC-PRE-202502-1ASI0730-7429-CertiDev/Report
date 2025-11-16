@@ -1608,7 +1608,7 @@ Con estas funcionalidades, el equipo completó las operaciones CRUD iniciales ne
 
 ---
 
-#### 5.2.3.2. Sprint Backlog 3
+#### 5.2.3.3. Sprint Backlog 3
 
 | Work Item / Task | Title                                | Description                                                                                                   | Estimation (Hours) | Assigned To  | Status |
 | ---------------- | ------------------------------------ | ------------------------------------------------------------------------------------------------------------- | ------------------ | ------------ | ------ |
@@ -1625,7 +1625,7 @@ Con estas funcionalidades, el equipo completó las operaciones CRUD iniciales ne
 
 ---
 
-#### 5.2.3.3. Development
+#### 5.2.3.4. Development Evidence for Sprint Review
 
 El proyecto backend se encuentra alojado en el repositorio:
 
@@ -1650,7 +1650,7 @@ Estos commits reflejan el avance progresivo de los módulos trabajados durante e
 
 ---
 
-#### 5.2.3.4. Evidencias de Ejecución
+#### 5.2.3.5. Execution Evidence for Sprint Review
 
 Durante este sprint se ejecutó exitosamente la API desde Raider, verificando el funcionamiento de:
 
@@ -1664,7 +1664,7 @@ Durante este sprint se ejecutó exitosamente la API desde Raider, verificando el
 
 ---
 
-#### 5.2.3.5. Documentación de Servicios
+#### 5.2.3.6. Services Documentation Evidence for Sprint Review
 
 Se generó documentación automática mediante Swagger, la cual describe:
 
@@ -1678,7 +1678,7 @@ Esta documentación servirá de base para ampliar la especificación técnica en
 
 ---
 
-#### 5.2.3.6. Despliegue
+#### 5.2.3.7. Software Deployment Evidence for Sprint Review
 
 El despliegue correspondiente a este sprint está orientado únicamente a la ejecución local dentro del entorno Raider.  
 El despliegue oficial en hosting (Deploy.com) está planificado para el Sprint 4, según lo establecido en la planificación del proyecto.
@@ -1691,6 +1691,8 @@ Link de deployado: https://certidev-project-backend.onrender.com/index.html
 <img width="1251" height="582" alt="image" src="https://github.com/user-attachments/assets/d9016ae7-bb8e-4b16-bb38-bd688869eea4" />
 
 <img width="1240" height="575" alt="image" src="https://github.com/user-attachments/assets/db447ff1-0dcb-49f1-94cf-bc1052632ce3" />
+
+#### 5.2.3.8. Team Collaboration Insights during Sprint
 
 
 
