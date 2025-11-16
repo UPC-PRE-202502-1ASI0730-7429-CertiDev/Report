@@ -1582,7 +1582,6 @@ Se implemento en este Segundo Sprint, el diseño de la primera version de la Apl
 
 Para el Sprint 2, no se ha trabajado en la documentación de los servicios de la aplicación CertiInmuebles, ya que el enfoque principal ha sido la creación de la aplicación web. No obstante, se tiene previsto desarrollar la documentación de los servicios en los próximos sprints.
 
-
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review.
 
 Para la entrega del Sprint 2, se ha lanzado la versión inicial de la aplicación web, la cual ha sido publicada en Github Pages. A continuación, se presentan las evidencias del despliegue de dicha página.
@@ -1593,3 +1592,105 @@ Para la entrega del Sprint 2, se ha lanzado la versión inicial de la aplicació
 #### 5.2.2.8. Team Collaboration Insights during Sprint.
 <img alt="Evidence1" src="https://github.com/user-attachments/assets/f97a032c-3980-44e2-9a48-8337061ac0d1" />
 <img alt="Evidence2" src="https://github.com/user-attachments/assets/1b6f5032-e3b0-45bf-8f27-d5b35d93b697" />
+
+### 5.2.3. Sprint 3
+
+#### 5.2.3.1. Resumen del Sprint 3
+
+El Sprint 3 estuvo orientado al desarrollo del backend del proyecto CertiDev, implementado en .NET 9, bajo una arquitectura por capas siguiendo las 3D (Domain-Driven Design).
+Durante este sprint se construyó la estructura base del API, los módulos principales (Buyers, Owners y Certificates), la capa de persistencia con Entity Framework Core y la conexión a una base de datos MySQL.
+Asimismo, se configuró y ejecutó Swagger para la exposición de endpoints, logrando la operación de métodos GET, POST y validaciones de esquemas.
+
+Las historias de usuario cubiertas fueron:
+US01, US02, US03, US04, US05, US06, US09, US10, US11, US12.
+
+Con estas funcionalidades, el equipo completó las operaciones CRUD iniciales necesarias para la gestión de propietarios, compradores y certificados.
+
+---
+
+#### 5.2.3.2. Sprint Backlog 3
+
+| Work Item / Task | Title                                | Description                                                                                                   | Estimation (Hours) | Assigned To  | Status |
+| ---------------- | ------------------------------------ | ------------------------------------------------------------------------------------------------------------- | ------------------ | ------------ | ------ |
+| T01              | Configuración del proyecto backend   | Creación del proyecto base CertiDevService en Raider (.NET 9) con estructura inicial de carpetas.            | 4h                 | Team Backend | Done   |
+| T02              | Implementación de arquitectura 3D    | Creación de carpetas Domain, Application, Infrastructure e Interfaces para Buyers, Owners y Certificates.     | 5h                 | Team Backend | Done   |
+| T03              | Configuración de base de datos MySQL | Integración de Entity Framework Core, configuración del connection string y migración inicial.                | 6h                 | Team Backend | Done   |
+| T04              | Desarrollo del módulo Buyers         | Implementación de entidades, repositorios, servicios y controlador BuyerController con métodos GET y POST.    | 10h                | Team Backend | Done   |
+| T05              | Desarrollo del módulo Owners         | Implementación del módulo Owners (Domain, Application, Infrastructure e Interfaces) con endpoints operativos. | 10h                | Team Backend | Done   |
+| T06              | Desarrollo del módulo Certificates   | Creación del módulo de Certificates con estructura DDD y entidades base.                                      | 8h                 | Team Backend | Done   |
+| T07              | Configuración de Swagger             | Habilitación de Swagger para documentación y pruebas de endpoints.                                            | 2h                 | Team Backend | Done   |
+| T08              | Validaciones y modelos               | Implementación de validaciones de entrada, DTOs y mapeo entre entidades y modelos de transferencia.           | 6h                 | Team Backend | Done   |
+| T09              | Ejecución y pruebas de endpoints     | Verificación de funcionamiento del API en Swagger: métodos GET, POST, respuestas y esquemas.                  | 4h                 | Team Backend | Done   |
+| T10              | Documentación del servicio           | Descripción de endpoints disponibles y estructura del backend para presentación del sprint.                   | 3h                 | Team Backend | Done   |
+
+---
+
+#### 5.2.3.3. Development
+
+El proyecto backend se encuentra alojado en el repositorio:
+
+Repository Name: **[Backend CertiDev](https://github.com/UPC-PRE-202502-1ASI0730-7429-CertiDev/Backend---CertiDev.git)**  
+Branch: **main**
+
+Así mismo también se especifica una versión actualizada del Frontend Web Application para este Sprint 3: https://github.com/UPC-PRE-202502-1ASI0730-7429-CertiDev/CertiDev-Frontend-Web-Application.git
+
+Los commits fueron generados durante el proceso de construcción del API.  
+Dado que este sprint centralizó la mayor parte del desarrollo, se registraron los siguientes mensajes (referenciales):
+
+- feat(api): initialize backend project CertiDevService – 11/11/2025  
+- feat(api): add DDD structure for Buyers module – 11/11/2025  
+- feat(api): configure MySQL database and EF Core context – 12/11/2025  
+- feat(api): implement Buyers domain, application and infrastructure layers – 12/11/2025  
+- feat(api): create Owners module with controllers – 13/11/2025  
+- feat(api): add Certificates base entities and services – 13/11/2025  
+- feat(api): enable Swagger and API documentation – 14/11/2025  
+- fix(api): schema validations and DTO correction – 14/11/2025  
+
+Estos commits reflejan el avance progresivo de los módulos trabajados durante el Sprint 3.
+
+---
+
+#### 5.2.3.4. Evidencias de Ejecución
+
+Durante este sprint se ejecutó exitosamente la API desde Raider, verificando el funcionamiento de:
+
+- Swagger UI activo para visualización del catálogo de servicios.
+- Endpoints operativos para Buyers y Owners:
+  - GET (listado)
+  - POST (creación de registros)
+  - GET por ID
+- Validaciones de entrada y salida, modelos DTO y respuestas estándar.
+- Conexión establecida con MySQL, con inserción y consulta real de datos.
+
+---
+
+#### 5.2.3.5. Documentación de Servicios
+
+Se generó documentación automática mediante Swagger, la cual describe:
+
+- Rutas de cada recurso (Buyers, Owners, Certificates)
+- Verbos permitidos (GET, POST, etc.)
+- Ejemplos de solicitud y respuesta
+- Validaciones aplicadas
+- Modelos de datos y sus atributos
+
+Esta documentación servirá de base para ampliar la especificación técnica en el Sprint 4.
+
+---
+
+#### 5.2.3.6. Despliegue
+
+El despliegue correspondiente a este sprint está orientado únicamente a la ejecución local dentro del entorno Raider.  
+El despliegue oficial en hosting (Deploy.com) está planificado para el Sprint 4, según lo establecido en la planificación del proyecto.
+Link de deployado: https://certidev-project-backend.onrender.com/index.html
+
+<img width="949" height="521" alt="image" src="https://github.com/user-attachments/assets/58ca7b55-741e-48eb-8ac4-dbebc2b27f24" />
+
+<img width="945" height="568" alt="image" src="https://github.com/user-attachments/assets/c57c7709-dd3b-45d8-ae33-8e06b2a33511" />
+
+<img width="1251" height="582" alt="image" src="https://github.com/user-attachments/assets/d9016ae7-bb8e-4b16-bb38-bd688869eea4" />
+
+<img width="1240" height="575" alt="image" src="https://github.com/user-attachments/assets/db447ff1-0dcb-49f1-94cf-bc1052632ce3" />
+
+
+
