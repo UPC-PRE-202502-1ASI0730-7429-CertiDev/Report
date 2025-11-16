@@ -1726,6 +1726,9 @@ Link de deployado: https://certidev-project-backend.onrender.com/index.html
 ### 5.3.3. Evaluaciones según heurísticas
 
 ## 5.4. Video About The Product
+<img width="870" height="576" alt="Captura de pantalla 2025-11-16 145027" src="https://github.com/user-attachments/assets/d81559d3-70f0-49df-b52c-9c19689e6aa0" />
+
+[Video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20191b935_upc_edu_pe/IQDAv5qBCPrmRpVOheLYPgJoAQ3xo-F4XFbX2hwisYiFBm4?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=b5FX3O)
 
 # Conclusiones
 Durante los primeros dos sprints del proyecto CertiInmuebles, nos hemos enfocado en validar y desarrollar los componentes esenciales de nuestra solución: la Plataforma Web para Integración Documental, el Módulo de Carga/Visualización de Documentos y la Base de Datos No-Relacional para la trazabilidad inmutable.
