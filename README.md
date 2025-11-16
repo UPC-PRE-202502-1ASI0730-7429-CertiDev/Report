@@ -1727,6 +1727,37 @@ Link de deployado: https://certidev-project-backend.onrender.com/index.html
 
 ## 5.4. Video About The Product
 
+# Conclusiones
+Durante los primeros dos sprints del proyecto CertiInmuebles, nos hemos enfocado en validar y desarrollar los componentes esenciales de nuestra solución: la Plataforma Web para Integración Documental, el Módulo de Carga/Visualización de Documentos y la Base de Datos No-Relacional para la trazabilidad inmutable.
+
+1. **Resultados frente a los Problem Statements:**
+- Falta de Transparencia y Seguridad: Esto se abordó mediante el desarrollo de la arquitectura básica para el registro de metadatos de documentos y la funcionalidad de huella digital única (hash), asegurando la inalterabilidad de la referencia documental.
+
+- Incertidumbre y Falta de Confianza en Transacciones: Hemos creado el wireframe y la navegación principal del Dashboard del Usuario (Propietarios y Agentes), que centraliza la visualización de todos los documentos validados para una propiedad, mitigando la dispersión de información y la incertidumbre.
+
+2. **Validación de Assumptions:**
+- Asumimos que los usuarios (Propietarios y Agentes) valoran la centralización y el acceso fácil a documentos cruciales. El diseño inicial de la Plataforma Web, que prioriza una "Carpeta Digital de la Propiedad", confirma esta expectativa, ya que simplifica drásticamente el flujo de trabajo frente a los métodos tradicionales.
+
+- Se asumió que la tecnología de registro inmutable sería percibida como un valor agregado crucial para la confianza. La implementación del backend simulado para la generación del hash valida que el concepto técnico puede ser traducido en un beneficio tangible de "prueba de autenticidad" para el usuario final.
+
+3. **Resultados frente a Hypotheses Statements:**
+- Hipótesis: "Los agentes inmobiliarios usarán la plataforma si esta les permite reducir el tiempo de verificación documental en un 30% y aumentar su credibilidad ante los clientes."
+
+- Resultado: El Módulo de Carga/Visualización de Documentos y la función de hash validan parcialmente esta hipótesis, ya que se ha demostrado que la digitalización y el sellado de tiempo eliminan pasos manuales. Se continuará midiendo la reducción de tiempo en las pruebas piloto de los siguientes sprints.
+
+### Recomendaciones
+- **Pruebas de Usabilidad Focalizadas:** Evaluar la facilidad de uso del flujo de carga de documentos y la comprensión del concepto de "documento inalterable" con usuarios reales (Propietarios y Agentes).
+
+- **Integración Tecnológica Clave (Blockchain/DLT):** Reemplazar la simulación de inalterabilidad con la integración real de la tecnología de registro distribuido (si aplica) o la base de datos inmutable elegida, documentando los endpoints y probando su funcionamiento completo.
+
+- **Optimización UX/UI de la Confianza:** Mejorar los flujos de presentación de información para que el usuario visualice claramente el status de validación del documento (e.g., sellos, fechas de inmutabilidad), reduciendo la resistencia al cambio y fomentando la adopción.
+
+- **Módulo de Comunicación y Reporte:** Desarrollar las funcionalidades para compartir documentos validados de forma segura y un módulo básico de reportes para agentes sobre el status de las propiedades listadas.
+
+- **Capacitación y Adopción (Contenido de Producto):** Crear material de marketing y capacitación centrado en el valor de la confianza y la seguridad, apuntando directamente a los Problem Statements de los agentes y propietarios.
+
+- **Mantener la Documentación y el Roadmap:** Asegurar la consistencia entre el desarrollo de la arquitectura de la información (técnica, legal, estructural) y el roadmap para la expansión de tipos de documentos aceptados.
+
 
 
 
