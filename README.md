@@ -1733,6 +1733,18 @@ Para el Sprint 4, el equipo se enfocó en dos aspectos principales: el desarroll
 |  |  |  |  |  |  |  |  |
 
 #### 5.2.4.4. Development Evidence for Sprint Review
+Durante el cuarto sprint del proyecto *EcoClean*, se desarrollaron funcionalidades esenciales en los módulos de **Backend Platform**, **WebApp Frontend** y **Reportes**. 
+Entre los avances se incluyen la creación de servicios y entidades del backend, la documentación del sprint , mejoras visuales en el frontend y conexión entre estas. 
+Además, el equipo realizó actividades de diseño, entrevistas a usuarios y validación funcional del sistema para asegurar coherencia entre requerimientos y la implementación técnica.
+
+A continuación se presenta la evidencia unificada de commits realizados:
+
+| Repository                 | Branch | Commit Id | Author             | Type     | Commit Message                                                                  | Committed on (Date) |
+|----------------------------|--------|-----------|--------------------|----------|----------------------------------------------------------------------------------|----------------------|
+| Certidev-Report          | main   | 5ec04ae  | Thepima | authored | Add Sprint 4 details and planning information                                                    | 2025-12-05           |
+| Certidev-Report          | main   | 8f71ba7   | Thepima | authored | Update Sprint 4 section in README.md                                                                | 2025-12-05           |
+| Certidev-Report          | main   | cd7c55c   | Thepima | authored | Update README to reflect changes in validation and sprint                                                                              | 2025-12-05           |
+| Certidev-Report          | main   | ae7303a   | AndS56             | authored | Update course title                                               | 2025-12-03           |
 
 #### 5.2.4.5. Execution Evidence for Sprint Review
 
