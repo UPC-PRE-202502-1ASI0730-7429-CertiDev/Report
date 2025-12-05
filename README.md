@@ -1743,7 +1743,7 @@ A continuación se presenta la evidencia unificada de commits realizados:
 |----------------------------|--------|-----------|--------------------|----------|----------------------------------------------------------------------------------|----------------------|
 | Certidev-Report          | main   | 5ec04ae  | Thepima | authored | Add Sprint 4 details and planning information                                                    | 2025-12-05           |
 | Certidev-Report          | main   | f5af3bb   | Thepima | authored | Document Sprint 4 development evidence in README                                                                | 2025-12-05           |
-| Certidev-Report          | main   | cd7c55c   | Thepima | authored | Update README to reflect changes in validation and sprint                                                                              | 2025-12-05           |
+| Certidev-Report          | main   | eafdd8   | Thepima | authored | Document Sprint 4 development evidence in README                                                                              | 2025-12-05           |
 | Certidev-Report          | main   | ae7303a   | AndS56             | authored | Update course title                                               | 2025-12-03           |
 
 #### 5.2.4.5. Execution Evidence for Sprint Review
@@ -1765,10 +1765,67 @@ En esta vista se muestran los endpoints creados en el backend utilizando Spring 
 
 
 #### 5.2.4.6. Services Documentation Evidence for Sprint Review
+### Capturas de Documentación Swagger
+
+A continuación, se presenta la captura de la documentación generada con Swagger/OpenAPI para los endpoints desarrollados en este Sprint:
+
+<img width="1458" height="962" alt="Captura de pantalla 2025-12-05 104242" src="https://github.com/user-attachments/assets/fd6af6dd-5669-4d3a-bb98-e0c13ccd57f0" />
+
+
+---
+### URL del repositorio de Web Services
+
+Repositorio Backend:  
+**[https://github.com/UPC-PRE-202502-1ASI0730-7429-CertiDev/Backend---CertiDev.git](https://github.com/UPC-PRE-202502-1ASI0730-7429-CertiDev/Backend---CertiDev.git)**
+
+---
 
 #### 5.2.4.7. Software Deployment Evidence for Sprint Review
+Durante el Sprint 4 se completó el despliegue funcional de los tres componentes principales del ecosistema **EcoClean**: **Web Application (Frontend)**, **Web Services (Backend)** y **Base de Datos**, asegurando un entorno completamente operativo para pruebas, validaciones y revisión del producto.
+
+El despliegue se realizó utilizando servicios cloud gratuitos y optimizados para desarrollo ágil:
+
+- **Frontend** desplegado en **Vercel**
+- **Backend (API en Spring Boot)** desplegado en **Render**
+- **Base de datos MySQL** desplegada en **Railway**
+
+Estos despliegues permiten que cualquier miembro del equipo pueda acceder a la aplicación en un entorno público y funcional, replicando el comportamiento productivo.
+
+## Entorno de Despliegue
+
+
+### **Backend**
+- **Plataforma:** Render.com  
+- **Tecnología:** Spring Boot + Java  
+- **Modo:** Web Service  
+- **URL pública de API:** *(coloca tu URL de Render aquí)*  
+- **Documentación:** Swagger habilitado  
+- **Despliegue:** Auto-build desde la rama `main`  
+- **Evicencia del despliegue** 
+![WhatsApp Image 2025-11-16 at 12 08 44 PM](https://github.com/user-attachments/assets/e8210c0c-9076-4691-814d-d5458632bbf5)
+
+
+---
+
 
 #### 5.2.4.8. Team Collaboration Insights during Sprint
+
+Durante el Sprint 4, el equipo de EcoClean trabajó de manera colaborativa para avanzar en el desarrollo del **Frontend**, **Backend** y **Reportes**, asegurando que cada integrante aporte a uno o más componentes del proyecto. A continuación, se presenta un resumen de las actividades realizadas por cada miembro del equipo.
+
+---
+
+### Actividades realizadas por cada integrante
+
+| Integrante | Acciones realizadas durante el Sprint 4 |
+|-----------|------------------------------------------|
+| **Joaquin Carranza** | Participación en pruebasy despliegue, estructura de reportes y apoyo documental del Sprint 4. |
+
+---
+
+### Contribución en los repositorios del proyecto
+
+A continuación, se muestra la evidencia de colaboración utilizando **GitHub Insights**, donde se refleja la actividad del equipo durante el Sprint 4.
+
 
 
 ## 5.3. Validation Interviews
