@@ -1742,11 +1742,27 @@ A continuación se presenta la evidencia unificada de commits realizados:
 | Repository                 | Branch | Commit Id | Author             | Type     | Commit Message                                                                  | Committed on (Date) |
 |----------------------------|--------|-----------|--------------------|----------|----------------------------------------------------------------------------------|----------------------|
 | Certidev-Report          | main   | 5ec04ae  | Thepima | authored | Add Sprint 4 details and planning information                                                    | 2025-12-05           |
-| Certidev-Report          | main   | 8f71ba7   | Thepima | authored | Update Sprint 4 section in README.md                                                                | 2025-12-05           |
+| Certidev-Report          | main   | f5af3bb   | Thepima | authored | Document Sprint 4 development evidence in README                                                                | 2025-12-05           |
 | Certidev-Report          | main   | cd7c55c   | Thepima | authored | Update README to reflect changes in validation and sprint                                                                              | 2025-12-05           |
 | Certidev-Report          | main   | ae7303a   | AndS56             | authored | Update course title                                               | 2025-12-03           |
 
 #### 5.2.4.5. Execution Evidence for Sprint Review
+En este Sprint se avanzó en la construcción inicial del sistema EcoClean, logrando implementar las primeras vistas funcionales del frontend y los endpoints base del backend. Estos avances permiten mostrar el flujo inicial del sistema y validar la estructura técnica que se utilizará en los próximos sprints.
+
+A continuación, se presentan los screenshots correspondientes a las principales vistas del sistema implementadas durante el Sprint 4:
+
+
+### **Frontend – Vista 1: Dashboard / Navegación Principal**
+
+![WhatsApp Image 2025-11-16 at 10 29 39 AM (1)](https://github.com/user-attachments/assets/3d7eb874-8478-4e4b-a707-0f8d4b77c2ee)
+
+---
+
+### **Backend – Documentación Swagger**
+En esta vista se muestran los endpoints creados en el backend utilizando Spring Boot, documentados mediante Swagger:
+
+<img width="1458" height="962" alt="Captura de pantalla 2025-12-05 104242" src="https://github.com/user-attachments/assets/b135119a-2651-48b1-8032-63e9f4ad593d" />
+
 
 #### 5.2.4.6. Services Documentation Evidence for Sprint Review
 
