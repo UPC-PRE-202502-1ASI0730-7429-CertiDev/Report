@@ -1701,6 +1701,48 @@ Link de deployado: https://certidev-project-backend.onrender.com/index.html
 #### 5.2.3.8. Team Collaboration Insights during Sprint
 <img width="999" height="554" alt="image" src="https://github.com/user-attachments/assets/2e53a189-f1b0-4d64-9c4c-3d2ac8f54437" />
 
+### 5.2.4. Sprint 4
+
+#### 5.2.4.1. Sprint Planning 4
+
+| Sprint # | Sprint 4 |
+|--------- |----------|
+| Date | 05/12/2025 |
+| Time | 12:00 horas (GMT-5) |
+| Location | Virtual (Google Meet) |
+| Prepared By | Avalos Cordova, Diego Andres |
+| Attendees (to planning meeting) | <br>Carranza Tesen, Joaquin Enrique<br> |
+| **Sprint 3 Review Summary** | Durante el Sprint 3 se logró desplegar el web services e implementar un panel administrativo. Además, se corrigieron errores de la aplicación web. |
+| **Sprint 3 Retrospective Summary** | El equipo identificó que al priorizar la fake API, aplazamos el despliegue del backend real y la validación del contrato de Swagger, lo que generó retrasos en la integración final y el desbloqueo del frontend. |
+| **Sprint Goal & User Stories** | |
+| **Sprint 4 Goal** | Desarrollar y desplegar la última versión de los Web Services (backend) y aplicación web(frontend). |
+| **Sprint 4 Velocity** | El equipo ha establecido una capacidad de **5 Story Points** para este Sprint. |
+| **Sum of Story Points** | **5** |
+
+#### 5.2.4.2. Aspect Leaders and Collaborators
+Para el Sprint 4, el equipo se enfocó en dos aspectos principales: el desarrollo de la última versión del aplicativo (Web Application) y la integración del backend (Web Services and deployment). El equipo se ha reorganizado de la siguiente manera:
+
+| Team Member (Last Name, First Name) | GitHub Username | Web Application (Admin) | API Integration & Deployment |
+| :--- | :--- | :--- | :--- |
+| Carranza Tesen, Joaquin Enrique | thepima | **L** | **L** |
+#### 5.2.4.3. Sprint Backlog 4
+| Sprint # | Sprint 4 | | | | | | |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **User Story** | | **Work-Item / Task** | | | | | **Status** |
+| Id | Title | Id | Title | Description | Estimation (Hours) | Assigned To | (To-do / In-Process / To-Review / Done) |
+|  |  |  |  |  |  |  |  |
+
+#### 5.2.4.4. Development Evidence for Sprint Review
+
+#### 5.2.4.5. Execution Evidence for Sprint Review
+
+#### 5.2.4.6. Services Documentation Evidence for Sprint Review
+
+#### 5.2.4.7. Software Deployment Evidence for Sprint Review
+
+#### 5.2.4.8. Team Collaboration Insights during Sprint
+
+
 ## 5.3. Validation Interviews
 ### 5.3.1. Diseño de entrevistas
 **Segmento objetivo 1: Propietarios de inmuebles**
