@@ -1738,7 +1738,7 @@ Link de deployado: https://certidev-project-backend.onrender.com/index.html
 | Date | 05/12/2025 |
 | Time | 12:00 horas (GMT-5) |
 | Location | Virtual (Google Meet) |
-| Prepared By | Avalos Cordova, Diego Andres |
+| Prepared By | <br>Carranza Tesen, Joaquin Enrique<br> |
 | Attendees (to planning meeting) | <br>Carranza Tesen, Joaquin Enrique<br> |
 | **Sprint 3 Review Summary** | Durante el Sprint 3 se logró desplegar el web services e implementar un panel administrativo. Además, se corrigieron errores de la aplicación web. |
 | **Sprint 3 Retrospective Summary** | El equipo identificó que al priorizar la fake API, aplazamos el despliegue del backend real y la validación del contrato de Swagger, lo que generó retrasos en la integración final y el desbloqueo del frontend. |
