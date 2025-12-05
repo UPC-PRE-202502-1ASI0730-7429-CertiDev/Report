@@ -1733,7 +1733,7 @@ Para el Sprint 4, el equipo se enfocó en dos aspectos principales: el desarroll
 |  |  |  |  |  |  |  |  |
 
 #### 5.2.4.4. Development Evidence for Sprint Review
-Durante el cuarto sprint del proyecto *EcoClean*, se desarrollaron funcionalidades esenciales en los módulos de **Backend Platform**, **WebApp Frontend** y **Reportes**. 
+Durante el cuarto sprint del proyecto *CertiInmuebles*, se desarrollaron funcionalidades esenciales en los módulos de **Backend Platform**, **WebApp Frontend** y **Reportes**. 
 Entre los avances se incluyen la creación de servicios y entidades del backend, la documentación del sprint , mejoras visuales en el frontend y conexión entre estas. 
 Además, el equipo realizó actividades de diseño, entrevistas a usuarios y validación funcional del sistema para asegurar coherencia entre requerimientos y la implementación técnica.
 
@@ -1744,7 +1744,7 @@ A continuación se presenta la evidencia unificada de commits realizados:
 | Certidev-Report          | main   | 5ec04ae  | Thepima | authored | Add Sprint 4 details and planning information                                                    | 2025-12-05           |
 | Certidev-Report          | main   | f5af3bb   | Thepima | authored | Document Sprint 4 development evidence in README                                                                | 2025-12-05           |
 | Certidev-Report          | main   | eafdd8   | Thepima | authored | Document Sprint 4 development evidence in README                                                                              | 2025-12-05           |
-| Certidev-Report          | main   | ae7303a   | AndS56             | authored | Update course title                                               | 2025-12-03           |
+| Certidev-Report          | main   | 83f0e8a   | Thepima             | authored | Revise README with Sprint 4 updates and Swagger docs                                               | 2025-12-05           |
 
 #### 5.2.4.5. Execution Evidence for Sprint Review
 En este Sprint se avanzó en la construcción inicial del sistema EcoClean, logrando implementar las primeras vistas funcionales del frontend y los endpoints base del backend. Estos avances permiten mostrar el flujo inicial del sistema y validar la estructura técnica que se utilizará en los próximos sprints.
@@ -1781,13 +1781,11 @@ Repositorio Backend:
 ---
 
 #### 5.2.4.7. Software Deployment Evidence for Sprint Review
-Durante el Sprint 4 se completó el despliegue funcional de los tres componentes principales del ecosistema **EcoClean**: **Web Application (Frontend)**, **Web Services (Backend)** y **Base de Datos**, asegurando un entorno completamente operativo para pruebas, validaciones y revisión del producto.
+Durante el Sprint 4 se completó el despliegue funcional de los tres componentes principales del ecosistema **CertiInmuebles**: **Web Application (Frontend)**, **Web Services (Backend)** y **Base de Datos**, asegurando un entorno completamente operativo para pruebas, validaciones y revisión del producto.
 
 El despliegue se realizó utilizando servicios cloud gratuitos y optimizados para desarrollo ágil:
 
-- **Frontend** desplegado en **Vercel**
 - **Backend (API en Spring Boot)** desplegado en **Render**
-- **Base de datos MySQL** desplegada en **Railway**
 
 Estos despliegues permiten que cualquier miembro del equipo pueda acceder a la aplicación en un entorno público y funcional, replicando el comportamiento productivo.
 
@@ -1818,7 +1816,7 @@ Durante el Sprint 4, el equipo de EcoClean trabajó de manera colaborativa para 
 
 | Integrante | Acciones realizadas durante el Sprint 4 |
 |-----------|------------------------------------------|
-| **Joaquin Carranza** | Participación en pruebasy despliegue, estructura de reportes y apoyo documental del Sprint 4. |
+| **Joaquin Carranza** | Participación en pruebas y despliegue, estructura de reportes y apoyo documental del Sprint 4. |
 
 ---
 
@@ -1826,6 +1824,7 @@ Durante el Sprint 4, el equipo de EcoClean trabajó de manera colaborativa para 
 
 A continuación, se muestra la evidencia de colaboración utilizando **GitHub Insights**, donde se refleja la actividad del equipo durante el Sprint 4.
 
+<img width="608" height="664" alt="Captura de pantalla 2025-12-05 110641" src="https://github.com/user-attachments/assets/86e4830d-d09a-4ed8-a8b1-f658fb46935b" />
 
 
 ## 5.3. Validation Interviews
